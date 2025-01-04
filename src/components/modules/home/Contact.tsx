@@ -11,18 +11,18 @@ const Contact = () => {
         <div className="flex items-center lg:flex-row flex-col justify-center gap-5">
           <p className="flex items-center gap-2 text-xl bg-black min-w-[320px] px-4 py-2 rounded-md">
             <TbMail className="mb-1 text-2xl text-primary" />
-            <a href="mailto:shiningsudipto@gmail.com">
-              shiningsudipto@gmail.com
+            <a href="mailto:info.mostafejur21@gmail.com">
+              info.mostafejur21@gmail.com
             </a>
           </p>
           <p className="flex items-center gap-2 text-xl bg-black min-w-[320px] px-4 py-2 rounded-md">
             <TbPhone className="mb-1 text-2xl text-primary" />
-            <a href="tel:+8801758579417">01758579417</a>
+            <a href="tel:+8801828649383">01828649383</a>
           </p>
         </div>
         <p className="flex items-center gap-2 text-xl bg-black min-w-[320px] py-2 px-4 rounded-md">
           <IoLocationOutline className="mb-1 text-2xl text-primary" />
-          Barishal, Bangladesh
+          Dhaka, Bangladesh
         </p>
       </div>
     </div>

@@ -32,7 +32,7 @@ const menuLinks = [
 
 const handleOpenResume = () => {
   const resumeLink =
-    "https://drive.google.com/file/d/1a5f0MxZG4LNepU6mNumzZ_ZVilg23jYE/view?usp=drive_link";
+    "https://drive.google.com/file/d/1a58YEvzLAH_X6vvqclVNDgORPnu4Upz1/view?usp=sharing";
   window.open(resumeLink, "_blank");
 };
 
