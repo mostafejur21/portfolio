@@ -13,7 +13,7 @@ const Banner = () => {
                 </h1>
                 <h2 className="lg:text-3xl text-2xl font-bold my-3">Software Engineer</h2>
                 <h3 className="lg:text-xl text-lg font-medium mb-4">
-                    "Specializing in Flutter, creating innovative, user-focused applications that deliver seamless experiences."
+                    Specializing in Flutter, creating innovative, user-focused applications that deliver seamless experiences.
                 </h3>
                 <div className="flex items-center gap-2 text-3xl">
                     <a
